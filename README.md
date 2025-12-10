@@ -155,18 +155,19 @@ python -m venv .venv
 
 Activate:
 
-# Windows
+#Windows
 .venv\Scripts\activate
 
 3. Install Dependencies
 pip install -r requirements.txt
 
-4. # Create .env file with your API keys
+4. Create .env file with your API keys
 echo GROQ_API_KEY=your_api_key_here > .env
 
 5. Run Streamlit App
 #Navigate to project folder
  cd "Business Reputation & Insights Analyzer using Google Maps Reviews + LLMs"
+
 streamlit run app.py
 
 📊 Evaluation Metrics
