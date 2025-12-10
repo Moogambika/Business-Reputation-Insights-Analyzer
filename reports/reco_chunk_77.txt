@@ -1,0 +1,91 @@
+Taj Mahal Palace – Guest-Feedback-Driven Improvement Plan  
+(All quotes are extracted verbatim from the 40 000-character review set)
+
+1. Service Quality – keep the “Tajness” but make it predictable  
+What guests love  
+“exceptional personalized service … staff members always ready assist smile … truly best of the best … went out of the way to help month-old nephew”
+
+What is still missing  
+- No mention of pre-arrival preference collection, allergy alerts or kids’ amenities being offered proactively.  
+- Several reviewers only “discovered” services (baby-chair, stroller help, special cutlery) after asking.
+
+Action  
+a. Build a 30-second “Taj-touch” script that every frontline employee must use within 2 min of guest contact: name-use + one anticipatory question (“May I park your stroller in our shaded bay?”).  
+b. Add a 2-click “dietary & celebration” flag in the central reservation system; auto-print on kitchen & restaurant KDS so that chefs start plating a child’s portion or birthday surprise without being told.  
+c. Quarterly “mystery baby” audit – send in parents with infant and score how many unrequested items (boiled water, wipes, quiet corner) appear.
+
+2. Staff Behaviour – codify the warmth  
+What guests love  
+“genuine warmth … extremely polite professional … made feel truly special”
+
+What can slip  
+- Warmth is attributed to individuals, not the system (“staff exceptionally polite” – implies variance).  
+- No evidence of staff recognition for these moments.
+
+Action  
+a. Create a “Taj Star” instant-reward card: any guest can hand it to an employee; card is scanned by HR → ₹500 spot bonus + guest story posted on internal app within 24 h.  
+b. Add a 45-min quarterly refresher titled “Tajness in 3 steps” (eye-contact + name-use + one anticipatory act) – attendance tied to shift scheduling.
+
+3. Facilities – protect the wow, hide the wear  
+What guests love  
+“stunning architecture … every corner feels premium … security cleanliness topnotch”
+
+What can degrade  
+- Heritage building = periodic closures for restoration; reviewers did not complain but also did not see any ongoing work, suggesting restorations happen in bursts → risk of sudden closures.  
+- Baby-change facilities were praised once but not mentioned again → possible undersupply.
+
+Action  
+a. Publish a 12-month “restoration calendar” on the website; allow booked guests to opt for a room away from work zones.  
+b. Install one additional baby-change pod in the Shamiana vestibule (currently only Sea Lounge level has it) and mark it on the mobile app map.
+
+4. Wait Time – remove the only negative space  
+What guests love  
+Nothing – wait time is not mentioned, which in a 40 k text set means it is acceptable.
+
+What is missing  
+- No data on afternoon-tea or Sunday-brunch queue.  
+- No mention of digital check-in or express checkout.
+
+Action  
+a. Introduce “Taj Express” brunch: guaranteed seating within 5 min for guests who pre-select buffet + pay online; seat them at the rear counters with dedicated steward (pilot for 3 months).  
+b. Add a real-time table-count display on the Taj app (same tech already used by Indigo flights for queue visibility).
+
+5. Value for Money – justify the price tag in print  
+What guests love  
+“food expensive of course completely worth … premium quality makes unforgettable”
+
+What can erode  
+- Reviewers repeatedly defend the price (“expensive BUT worth it”) → signals latent price sensitivity.  
+- No mention of loyalty-point redemption or resident-rate.
+
+Action  
+a. Bundle a “Taj Epicure Rs 1000 dining credit” into the resident weekend room rate; show the math on the booking page (“You pay ₹18 000 but receive ₹4 000 in F&B credit – net cost ₹14 000”).  
+b. Launch a “Tajness tasting menu” at Shamiana – 5 heritage dishes + mocktail at ₹2 500 all-inclusive; market as entry-level luxury, keeps brand accessible without discounting core menu.
+
+6. Digital Experience – close the loop from Instagram to check-out  
+What guests love  
+Nothing – digital is barely mentioned.
+
+What is missing  
+- No mention of mobile key, chat-based service, or AR heritage tour.  
+- Guests still call front desk for baby amenities instead of using app.
+
+Action  
+a. Release WhatsApp “Taj Buddy” number: pre-check-in 24 h → send menu, spa slots, baby-equipment list; guests tick what they need → items delivered before arrival.  
+b. QR-coded “Story-Spots” in corridors – scan → 30-sec video on that dome/arch; encourages social sharing and reduces demand on human guides.  
+c. Add one-tap “split bill & pay” in the app; pilot in Shamiana, roll out to all F&B once adoption > 30 %.
+
+Quick-win calendar  
+Month 1 – Taj Star cards printed, QR story-spots live  
+Month 2 – WhatsApp buddy pilot, baby-change pod installed  
+Month 3 – Express brunch pilot, tasting menu on menu  
+Month 4 – Restoration calendar online, instant-reward payouts reviewed  
+Month 6 – “Tajness in 3 steps” refresher complete, mystery-baby audit #2
+
+Measure success  
+- Guest mention of “staff anticipation” in post-stay surveys ↑ 15 %  
+- Average queue time Sunday brunch ↓ to < 8 min  
+- F&B revenue from new tasting menu ≥ 7 % of total Shamiana sales  
+- Employee spot-bonus redemption ≥ 200 cards/month
+
+Keep the palatial magic, but make every moment feel inevitable.

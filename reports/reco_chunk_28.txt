@@ -1,0 +1,57 @@
+Apollo Hospitals – Customer-Feedback Action Plan  
+(What the data say → What to do → How to measure)
+
+1. Service Quality  
+Data signal: 90 % of compliments go to named doctors/nurses; almost none mention “process”.  
+Action:  
+- Create “Care Concierge” role (1 per 20 beds) who owns the patient journey from admission to 7-days-post-discharge WhatsApp follow-up.  
+- Introduce 5-point “No-surprise” briefing at admission (diagnosis, planned procedure, expected length of stay, probable cost band, next update time).  
+- Publish real-time dashboard in the patient App: today’s treating doctor, next test, expected discharge date.  
+KPI: Press-Ganey “Hospital understanding of next steps” score ↑ 15 % within 6 months; unplanned readmission ↓ 5 %.
+
+2. Staff Behaviour & Communication  
+Data signal: Praise for compassion is frequent but only when patients ask; no mention of proactive empathy.  
+Action:  
+- 30-min monthly micro-workshops (role-play based) on “3C”: Connect (eye-level seating), Clarify (teach-back), Comfort (offer before asked).  
+- Install bedside “TLC” card – staff sign when they have explained, listened, checked comfort.  
+- Link 5 % of nursing KPI score to patient-verified TLC card completion.  
+KPI: HCAHPS “Staff treated me with courtesy and respect” top-box ↑ 10 pts; patient complaints ↓ 20 %.
+
+3. Facilities & Way-finding  
+Data signal: “Required to independently navigate departments … confusion … delays.”  
+Action:  
+- Colour-coded floor trails (like airport gates) with 3-word signage in Tamil, Hindi, English.  
+- “Apollo Navigator” App: indoor Bluetooth way-finding, estimated walk time to pharmacy/radiology, queue number alerts.  
+- Volunteer “Blue-coat” buddies at every lift lobby 7 am–7 pm.  
+KPI: Average time from registration to first consultation ↓ 25 %; exit survey “Easy to find where to go” ↑ 20 %.
+
+4. Wait Time  
+Data signal: Long pre-op clearances, surprise add-on tests.  
+Action:  
+- Central pre-anaesthesia clinic with same-day slots; all diagnostics under one roof before 12 noon.  
+- Predictive algorithm (using past 12-month data) to issue surgery date only when 80 % probability all clearances can be completed 24 h prior.  
+- Live queue screens in waiting areas + SMS when 15 min away.  
+KPI: Average inpatient surgery admission-to-incision time ↓ 18 %; day-care cycle time (arrival-departure) ↓ 30 %.
+
+5. Value-for-Money & Pricing Transparency  
+Data signal: “Price never disclosed beforehand … shock … exorbitant.”  
+Action:  
+- Publish 50 high-volume procedures “Apollo Straight-Forward Package” with inclusive ceiling price on website; price updated quarterly.  
+- Introduce “Cost Conversation” checkbox in EMR – finance counsellor must enter printed estimate within 2 h of decision to treat; patient acknowledgement mandatory.  
+- Offer three-tier pharmacy implant menu (value/standard/premium) with price difference shown.  
+KPI: Billing complaints to help-desk ↓ 40 %; package uptake rate 60 % of eligible patients; NPS for “Fairness of charges” ↑ 15 pts.
+
+6. Digital Experience  
+Data signal: Patients still carry paper files; compliments mention WhatsApp photos of ECGs but no official channel.  
+Action:  
+- ApolloOne patient App: view reports within 60 min of test, share second-opinion link, video consult ₹500 (cheaper than physical revisit).  
+- Digitally sign consent forms on tablet; archived PDF accessible forever.  
+- AI chat-bot trained on 500 common questions in 5 languages; hand-off to human in <30 s.  
+KPI: App MAU/active discharged patients 70 % within 1 year; repeat footfall for report collection ↓ 50 %; patient-rated digital experience ≥ 4.5/5.
+
+Governance  
+- Voice-of-Customer council meets fortnightly; action owners present RAG status.  
+- Every ward displays “You said – We did” board updated monthly.  
+- Link 10 % of hospital CEO’s incentive to above system-wide KPIs.
+
+Implementing the above will convert the abundant clinical goodwill into an equally strong operational reputation, turning “best doctors” into “best end-to-end experience”.

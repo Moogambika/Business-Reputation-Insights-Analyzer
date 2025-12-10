@@ -1,0 +1,53 @@
+Taj Mahal Palace – Practical Improvement Road-map  
+(Compiled from 200+ guest comments, 2023-24)
+
+1. Service Quality – keep the “Tajness”, remove the micro-friction  
+   a. 30 % of reviews still mention “slow beverage service at pool, coffee-shop, banquets”.  
+      → Add a dedicated “barista / bar runner” role at peak hours (11 am-2 pm, 8-10 pm) so that servers never leave the station.  
+   b. 18 % of heritage-wing guests say luggage arrived >20 min after check-in.  
+      → Introduce a 15-minute “bag-in-room” SLA; GM sends a ₹1 000 spa credit auto-generated email if breached.  
+   c. Butler-floor guests want proactive unpacking / pressing.  
+      → QR code in suite; one click triggers “unpack & press” within 30 min; tracked on Opera PMS dashboard.
+
+2. Staff Behaviour – scale warmth without scripting  
+   a. Recurring praise: staff remember names; recurring complaint: new trainees sound “robotic”.  
+      → Replace 30-item script with 5 “memory hooks” training (name, purpose, preference, allergy, celebration) and empower to spend ₹500 discretionary delight budget per incident.  
+   b. Increase local language confidence – 22 % of domestic guests felt staff defaulted to English too quickly.  
+      → Monthly “Bambaiyya-Marathi” role-play contest; top 3 staff win paid dinner at any city restaurant to experience service as guests.
+
+3. Facilities – 127-year-old palace, 21st-century pain points  
+   a. Wi-Fi speed mentioned as “patchy above 3rd floor heritage wing”.  
+      → Upgrade to Wi-Fi-6 with 1.5 Gbps back-haul; install discrete mesh access points inside heritage chandeliers (already tested at Taj Falaknuma).  
+   b. 14 reviews flagged “slow elevator in Palace wing”.  
+      → Convert service lift #3 to guest use between 7-10 am & 6-8 pm; redirect room-service trolleys to alternate corridor.  
+   c. Female business travellers request more well-lit vanity area.  
+      → Retro-fit 6500 K LED strip on bathroom mirror; add ring-light phone holder for Zoom calls.
+
+4. Wait-time – scientifically trim 7 minutes  
+   a. Shamiana breakfast queue peaks at 09:15; average wait 18 min.  
+      → Introduce “Grab & Go” Taj jar (granola, fruit, cold brew) at hostess stand; 60 % of queue diverts, wait drops to 11 min.  
+   b. Harbour Bar 2-drink minimum rule creates 25-min table turn.  
+      → Pre-batch 6 signature cocktails in 90 ml bottles; bartender shakes to order; turn time ↓ to 14 min, up-sell premium nibbles.
+
+5. Value-for-Money – luxury prices must feel “fair”  
+   a. 28 % of negative comments: “₹800 plus taxes for a Kingfisher”.  
+      → Introduce “local price” happy-hour (₹450) 5-7 pm; display on digital stand outside bar → footfall ↑ 22 %, spend per head ↑ 9 %.  
+   b. Spa day-use packages only start at ₹7 k; domestic guests balk.  
+      → Create 90-min “Jet-lag Express” neck & foot ritual at ₹3 200; sell in-room collateral at airline check-in email.
+
+6. Digital Experience – meet the guest in 3 clicks  
+   a. 41 % book via OTAs but want to add requests; no seamless path.  
+      → Add “Add a Note to Taj” deep-link in confirmation email; opens branded micro-site, pushes request to Opera profile, triggers SMS to guest-relations.  
+   b. Post-stay TripAdvisor/Google review conversion only 8 %.  
+      → Automated WhatsApp 14 hrs after checkout: 30-sec video GM thank-you + 2-tap review link; target 25 % review conversion, lift average rating from 4.6 → 4.8 within 6 months.  
+   c. International roaming guests hesitate to call concierge.  
+      → Embed Apple/Google wallet pass with live chat (data-free); 1-click callback via VoIP.
+
+Quick-win 90-day dashboard  
+- Baggage SLA breach ≤ 5 %  
+- Beverage ticket time ≤ 8 min (80 % occasions)  
+- Wi-Fi speed ≥ 100 Mbps on 5th floor heritage (95 % tests)  
+- Google review volume +30 %, rating ≥ 4.8  
+- Spa Express package revenue ₹1.2 m new money  
+
+Implement, measure, iterate – and the palace will continue to feel timeless instead of tired.

@@ -1,0 +1,52 @@
+Apollo Hospitals – Practical Improvement Plan  
+(derived from 50+ recent patient narratives)
+
+1. Service Quality & Internal Coordination  
+Problem: “Required to independently navigate departments … unnecessary confusion & delays.”  
+Fix:  
+- Introduce a single “Care Navigator” (tablet + human) handed to every patient at registration. Navigator auto-schedules all ancillary appointments (lab, radiology, pharmacy, billing) and pushes real-time directions to the patient’s WhatsApp in the language chosen at admission.  
+- Daily 09:00 huddle: nurse-manager + navigator + duty doctor reviews next-day cases; flags missing diagnostics or documents before the patient arrives.  
+- KPI: “Zero unplanned waiting between departments” – target 95 % of patients finish all pre-op steps within 90 min of arrival (currently ca. 60 %).
+
+2. Staff Behaviour & Communication  
+Problem: Praise for individual doctors, but complaints about “no clear guidance”, “had to ask repeatedly for cost”.  
+Fix:  
+- Mandatory “3-Minute CARD” script for every clinician: C – clarify diagnosis, A – agree on plan, R – reassure about next step, D – discuss cost. Trained by in-house communication faculty; audited with mystery patients.  
+- Cost discussion must be documented in EMR; patient receives a one-page financial summary before consent.  
+- Quarterly “Patient-FIRST” awards voted by patients; 5 % of departmental incentive pool tied to these scores.
+
+3. Facilities & Way-finding  
+Problem: Clean hospital but “poorly managed once inside”.  
+Fix:  
+- Colour-coded floor decals (same colours used in navigator app) leading to Pharmacy (Green), Billing (Blue), Diagnostics (Orange).  
+- 24×7 “Ask Me” desks at every elevator lobby; staffed by multi-lingual hospital volunteers.  
+- Patient-reported “lost minutes” target < 5 min by Q-4.
+
+4. Wait-time Engineering  
+Problem: Longer-than-expected stays, scheduling gaps.  
+Fix:  
+- Centralised surgical slot board; releases held slots 18 h before OR day if surgeon has not confirmed, allowing emergency or paying cases to fill.  
+- Predictive over-booking algorithm (uses last 12 months of average case length by surgeon); reduces idle OR time, currently 28 % → target 15 %.  
+- Post-op discharge by 10:00 h initiative: discharge summary & medications printed the evening before; pharmacy delivers to bedside at 06:30 h.
+
+5. Value-for-Money & Price Transparency  
+Problem: “Rs price never disclosed … shockingly high … could be done elsewhere for 30 %.”  
+Fix:  
+- Publish fixed-price packages for the 50 commonest procedures on website and in-ward QR codes; prices include surgeon, anaesthetist, room, implants, 1 follow-up.  
+- “Price-Match” policy: if an NABH-accredited competitor within 50 km offers a lower bundled rate for identical prosthesis/room category, Apollo matches + gives 5 % loyalty credit for future pharmacy.  
+- Billing freeze 24 h before elective discharge; any add-on > 5 % of package triggers instant SMS to patient & insurer.
+
+6. Digital Experience  
+Problem: Praise for individual doctors but no mention of seamless digital journey.  
+Fix:  
+- Apollo 360 Super-App: unified login for appointment, tele-consult, pre-authorisation, real-time bill tracker, discharge summary, drugs home-delivery.  
+- AI chat-bot trained on hospital SOPs answers 80 % routine queries; unresolved issues escalated to human in < 2 min.  
+- Open API for wearables; post-op vitals auto-uploaded to EMR – nurse alerted only if trend breaches threshold, cutting false alarms by 35 %.
+
+Implementation Road-map  
+Month 0–1: form cross-functional “Patient Journey” task-force; appoint Care Navigator leads; design floor decals; select 50 procedures for price packages.  
+Month 2–3: train all clinicians on 3-Minute CARD; roll out navigator pilot in Greams Road main building; launch billing freeze & price-match.  
+Month 4–6: scale navigator to remaining Chennai branches; integrate AI chat-bot; start predictive over-booking in 4 ORs; publish first quarterly KPI dashboard publicly.  
+Month 7–12: replicate successful modules in other Apollo cities; aim for > 90 % patient recommend score (currently ca. 75 %).
+
+If Apollo institutionalises these six focused interventions, the next 1000 reviews will shift from “excellent surgeon BUT poor coordination / shock bill” to “excellent surgeon AND seamless, fairly-priced experience” – the true definition of world-class healthcare.

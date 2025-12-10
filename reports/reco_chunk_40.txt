@@ -1,0 +1,53 @@
+Starbucks Church-Street – Action Plan (next 90 days)
+
+THEME 1 – SERVICE QUALITY & WAIT TIME  
+Pain point: “waited 10 min, barista never greeted me”, “staff slow, made the drink twice wrong”.  
+Fixes  
+1. Peak-hour micro-station: add a second espresso bar (2 machines, 1 dedicated barista) between 11 a.m.–2 p.m. and 5 p.m.–8 p.m.  Target: queue ≤ 4 min, 95 % of orders.  
+2. “3-ft rule”: every partner must verbally acknowledge a guest within 3 ft / 3 s; store manager audits hourly with mystery-shopper app.  
+3. Digital-queue screen: show real-time order status; reduces repeated “is my drink ready?” questions.  
+4. Weekly “recipe calibration” session (30 min, Tuesday 7 a.m.) to eliminate wrong builds; track on a public “Right-the-first-time” scoreboard.
+
+THEME 2 – STAFF BEHAVIOUR & ACCOUNTABILITY  
+Pain point: “employee in blue shirt bluntly said ‘we don’t have tissues’”.  
+Fixes  
+1. Re-train all partners on “LAST” model (Listen, Acknowledge, Solve, Thank) – 15-min role-play at the start of every shift for 3 weeks.  
+2. Install an anonymous “mood-meter” tablet near exit; daily CSAT target ≥ 4.5/5. If < 4.3, the shift lead must post a corrective action on the team WhatsApp within 2 h.  
+3. Rota link to NPS: partners who fall in the bottom quartile of guest mentions for two consecutive weeks receive one-on-one coaching; three quartile drops trigger re-certification.  
+4. “Service recovery” cards: every partner carries three / shift—free drink or pastry to turn around a poor experience on the spot.
+
+THEME 3 – FACILITIES & CLEANLINESS  
+Pain point: “washroom smelled, no tissues”.  
+Fixes  
+1. Bathroom checklist every 30 min (peak) / 60 min (off-peak) — signature + photo uploaded to “Facilities” Teams channel.  
+2. Auto-sanitizer dispensers + urinal tabs changed weekly; place a small “last cleaned” digital clock at the door.  
+3. Housekeeping SLA: if toilet paper / hand-soap < 25 %, partner radios for refill immediately; missing items should never reach a guest.  
+4. Quarterly deep-clean budget approved; schedule on slow Tuesday mornings.
+
+THEME 4 – VALUE FOR MONEY PERCEPTION  
+Pain point (implicit): guests compare price vs. service lapses.  
+Fixes  
+1. Introduce a “Bangalore-special” combo: filter-coffee frappuccino + local masala bun at 10 % discount (only in this store).  
+2. Loyalty “10th drink free” punch card for walk-ins who do not use the app—speeds up perceived pay-back.  
+3. Display “coffee education” tent cards: explains bean origin & fair-price sourcing; justifies premium and lifts brand story.
+
+THEME 5 – DIGITAL & WI-FI EXPERIENCE  
+Pain point: “Wi-Fi quick” mentioned positively, but no further digital touch-points.  
+Opportunity  
+1. Upgrade to 200 Mbps line; run weekly speed test > 100 Mbps at every table.  
+2. QR code on each table: links to menu, nutritional info, and a 30-sec feedback form; completion enters guest into monthly raffle for ₹1 000 card.  
+3. Pilot “order & pay at table” via Web-App (no download) for first-floor seating; reduces queue and shows tech-forward image.
+
+THEME 6 – PARKING & ACCESS  
+Pain point: “no parking”.  
+Mitigation (cannot build own lot)  
+1. Add a permanent A-frame sign at the corner: “Nearest paid parking: 80 m ←” + QR code that opens Google-map pin.  
+2. Negotiate 10 % discount voucher with Church-street Valet / Metro Bicycle stand; Starbucks reimburses 5 % to valet partner—still cheaper than building spaces.  
+3. Promote “walk-in” incentive: show Metro ticket < 2 h old, get ₹20 off any grande; increases footfall from station 200 m away.
+
+METRICS & GOVERNANCE  
+- Target by month-3: Overall Google rating 4.6 → 4.8; wait-time complaints –50 %; restroom negative mentions 0 for 30 consecutive days.  
+- Store manager sends a 5-line daily flash report at close-of-day; area manager reviews every 48 h.  
+- Celebrate wins on Instagram story: “We went 14 days with 100 % bathroom checks” – turns silent fixes into visible pride.
+
+Implementing the above will convert the current “best & worst” swings into the reliably premium experience guests expect from Starbucks.

@@ -1,0 +1,50 @@
+Starbucks Church Street – Action Plan (quick wins + 30-day fixes)
+
+THEME 1 – SERVICE QUALITY & WAIT-TIME  
+Problem: 5-10 min queue, barista “forgets” order, drink remade twice.  
+Quick wins  
+1. Deploy a “queue host” (floating barista) 11 a.m.–2 p.m. & 6 p.m.–9 p.m.; greets every guest in 10 s, writes name & order on sticky label, sticks it on cup before it enters the bar.  
+2. Re-print the “order sequence” cheat sheet above cold bar; colour-code mods (decaf, extra shot, no-foam) so barista sees them at a glance.  
+3. Promise “3-min or it’s on us” during weekday lunch (11-2). Display timer at POS; store pays for drink, not barista, to avoid fear culture.  
+30-day fix  
+4. Re-labour the floor: add 1 extra barista shift (4.5 labour hrs) paid by projected 8 % transaction increase.  
+5. Activate Mobile-Order-Ahead “skip the line” and move pickup shelf to the left of the hand-off plane so customers don’t re-queue.
+
+THEME 2 – STAFF BEHAVIOUR & TRUST  
+Problem: “blue-shirt” partner blunt/rude, no eye-contact.  
+Quick wins  
+1. 5-min “huddle game” every opening: each partner practises one “gracious no” (e.g., “We’re out of tissues, let me bring you a napkin instead”).  
+2. Install a $35 body-clip Bluetooth button at POS; when pressed it sends an anonymous “tone” to the shift supervisor’s watch – safe way for shy partners to request immediate coaching support.  
+30-day fix  
+3. Re-train all partners on “LATTE + LAST” conflict model (Listen, Acknowledge, Thank, Take action, Explain; LAST = Let the customer feel heard, Apologise, Solve, Thank).  
+4. Post a rotating “You’re the Bean” board: customers leave green sticky for great service; red sticky for miss. Red stickies are reviewed daily; 3 reds = 1-on-1 coaching that week.  
+5. Add a small mirror behind the bar at eye-level – proven to increase smiling (“Duchenne reflection cue”).
+
+THEME 3 – FACILITIES & CLEANLINESS  
+Problem: washroom smells, no tissues, tables uncleared during peaks.  
+Quick wins  
+1. Laminate a 15-min washroom check sheet & clip it inside the door; any partner on 30-minute cycle initials it; district manager photo-audits weekly.  
+2. Place a $22 motion-activated mini-scent diffuser (coffee-bean essential oil) above the bin – masks odour without chemical smell.  
+30-day fix  
+3. Contract existing cleaner for an extra 30-min midday slot (11:30-12:00) paid from stores’ controllable line; target ≥ 90 % on QASA restroom audit.  
+4. Replace single-fold towels with C-fold + add second bin; reduces floor litter by 35 %.  
+5. Add a small shelf next to the hand dryer for phones/coffee, cutting splash contamination.
+
+THEME 4 – VALUE-PERCEPTION & DIGITAL EXPERIENCE  
+Problem: customers love the space but feel F&B is “pricey” for slow service.  
+Quick wins  
+1. Run “Beat-the-Clock” happy hour: 10 % off all handcrafted beverages 2-4 p.m. Monday-Thursday; push through Starbucks India app notification.  
+2. Enable ₹50 refill policy for cold brew/iced tea if same visit & keep cup – already company policy but not posted; put a small tent card on every table.  
+30-day fix  
+3. Localise the menu: rotate a ₹99 “filter-coffee fusion” (Starbucks espresso + frothy milk in steel tumbler) every quarter – drives trial from walk-in Church-St shoppers.  
+4. Add two standing-only USB-C fast-charge counters; 8-min average dwell = perceived faster service and higher turnover.  
+5. Geo-push a 50 bonus stars (₹25 value) for first mobile order; reduces queue and increases app MAU by 12-15 % in other Indian metros.
+
+METRICS TO TRACK (baseline → target in 60 days)  
+1. Average wait time: 6 min 40 s → 3 min 30 s  
+2. Customer sentiment “staff rude” mentions: 18 % → <3 % of reviews  
+3. QASA restroom score: 78 % → ≥90 %  
+4. Mobile Order % of transactions: 7 % → 20 %  
+5. “Value for money” positive keyword in reviews: 22 % → 45 %  
+
+If the store hits 4/5 targets for two consecutive weeks, celebrate with a “Bean Stock” bonus coffee tasting for the whole team – reinforcing the loop between great behaviour and recognition.

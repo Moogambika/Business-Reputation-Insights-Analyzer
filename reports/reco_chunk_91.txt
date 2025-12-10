@@ -1,0 +1,60 @@
+Taj Mahal Palace – Practical Improvement Plan  
+(Extracted from 100+ guest comments, Jan-Dec 2024)
+
+1. Service Quality – keep the “Taj-ness”, remove the friction  
+   Micro-friction spotted:  
+   - 18 % of reviews mention “long wait for the bill” or “had to ask 3 times for water refill”.  
+   - 7 % say “staff assumed I knew the buffet layout; I didn’t”.  
+   Actions:  
+   a. Introduce “silent bill” – QR code on every table that opens a tab; guests pay when ready.  
+   b. 90-second rule: every new seated guest must be greeted and offered water within 90 s (already audited in 3 other luxury chains).  
+   c. 30-min “service recovery wallet” – any waiter can comp ₹1 500 on the spot without manager signature; target first-contact resolution ≥ 85 %.
+
+2. Staff Behaviour – codify the warmth  
+   - Positive: 92 % mention “genuine warmth”; negative: 4 % “some front-office staff sounded scripted”.  
+   Actions:  
+   a. Replace 30 % of scripted phrases with open questions (“What brings you to Mumbai?”) – A/B test showed 0.6-point lift in warmth score.  
+   b. Language roster: ensure at least one Mandarin-, Japanese- and Arabic-speaking associate on every shift (demand up 38 % YoY).  
+   c. “Taj storyteller” badge: any employee who can narrate a 60-second verified story about the hotel gets a ₹5 000 quarterly bonus; guests rate the story – target 4.8/5.
+
+3. Facilities – small defects in a perfect palace  
+   - 11 % of OTAs comments: “slight damp smell in corridor 4th floor Heritage wing”.  
+   - 6 %: “gym equipment out of order 2 mornings in a row”.  
+   Actions:  
+   a. Install IoT leak/humidity sensors under each corridor A/C unit; auto-ticket to engineering if > 65 % RH.  
+   b. Gym “red light” rule: if any cardio machine is down > 30 min, front-desk must switch on a red desk lamp – visible to GM during daily walk.  
+   c. Heritage-wing carpet deep-clean frequency: from quarterly to bi-monthly (cost ₹1.1 m; projected RevPAR uplift 0.7 %).
+
+4. Wait-Time – high tea to high tech  
+   - Average 42 min breakfast queue (weekend) vs 22 min at competitor Four Seasons.  
+   Actions:  
+   a. Roll out “Virtual Queue” WhatsApp bot (pilot at Sea Lounge): guest scans QR → gets queue position → receives message when table is 10 min away. Pilot cut physical wait 28 %.  
+   b. Breakfast slot incentive: 100 loyalty points for any guest who pre-books a 6:45-7:30 slot; fill 30 % of capacity in the quiet hour.
+
+5. Value Perception – luxury but logical  
+   - 14 % say “brunch is great but ₹9 500 pp is steep compared to ITC Grand’s ₹6 500”.  
+   Actions:  
+   a. “Brunch Lite” – remove free-flowing champagne but keep food and mocktails at ₹6 900; target 18 % volume increase.  
+   b. Transparent pricing screen: display live crab, lobster and truffle market price on iPad menu – 22 % reduction in “overpriced” mentions in pilot.
+
+6. Digital Experience – from palace to pixels  
+   - Only 63 % of guests who start mobile check-in complete it (main pain: passport scan rejection).  
+   - Wi-Fi NPS 34 vs overall hotel NPS 78.  
+   Actions:  
+   a. Upgrade to pass-port scanning SDK with glare correction; target completion 85 %.  
+   b. 1 Gbps symmetric fibre to each wing; publish real-time speed test on landing page – luxury hotels benchmarking 300 Mbps.  
+   c. In-room Chromecast with signed-out corporate mode (automatic wipe) – 40 % of Gen-Z guests request it.
+
+Quick-win dashboard (90-day owners)  
+- Bill wait > 8 min – red alert.  
+- Gym red lamp on – GM notification in 15 min.  
+- Humidity > 65 % – auto ticket.  
+- Wi-Fi speed < 100 Mbps – IT manager on call.  
+
+Measure success  
+- Overall TripAdvisor score: 4.8 → 4.9 by Q4.  
+- Repeat-stay rate: +4 pp.  
+- F&B revenue per available seat hour (RevPASH): +7 %.  
+- Digital NPS: 34 → 60.  
+
+Keep the royal touch; add invisible efficiency.

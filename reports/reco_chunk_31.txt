@@ -1,0 +1,99 @@
+Apollo Chennai – Actionable Improvement Plan  
+(derived from 50+ recent customer feedback threads)
+
+--------------------------------------------------
+1. Service Quality & Internal Coordination
+--------------------------------------------------
+Pain-point  
+- “Patients left to navigate departments alone … unnecessary confusion & delays.”
+
+Fixes  
+a. Central “Care Navigator” desk at every entry point – staffed 24×7 by nurses with tablet-based patient-flow dashboard.  
+b. Colour-coded floor strips (like Tokyo metro) leading to the five high-traffic hubs (Radiology, Lab, Billing, Pharmacy, Discharge Lounge).  
+c. Inter-department SLA embedded in HMS: if a patient waits >15 min for an escort or wheelchair, the navigator auto-escalates to floor manager.  
+d. Daily 08:30 huddle (Zoom + offline) between Floor Coordinators, House-keeping, Security, Billing, Nursing Super; KPI on dashboard = “Avg. internal transit time” (target ≤25 min end-to-end).  
+e. Post-discharge “48-h callback” by same navigator to catch missed drugs / billing shocks → logged in CRM for root-cause review.
+
+--------------------------------------------------
+2. Staff Behaviour & Communication
+--------------------------------------------------
+Pain-point  
+- “No-one told us what was happening … we had to chase.”
+
+Fixes  
+a. Mandatory SBAR (Situation-Background-Assessment-Recommendation) script training for every clinical & non-clinical staff; mystery shopper audits twice a month.  
+b. “No jargon” rule: if patient nods <3 times in 30 s, staff must re-explain in Tamil / Hindi / Bengali / Telugu (translation cards on lanyard).  
+c. Instant feedback kiosks at 10 locations; if rating ≤3/5, unit head gets SMS within 5 min and must close loop in 30 min.  
+d. Quarterly “Patient Partner” shadowing – 20 patients/families invited to walk the journey with admin team; findings presented to COO.  
+e. Reward: 5-star staff photos displayed on lobby screen + ₹2000 e-voucher; <3-star staff sent for re-training.
+
+--------------------------------------------------
+3. Facilities & Environment
+--------------------------------------------------
+Pain-point  
+- “Well-maintained but signage poor; restrooms occasionally run out of supplies.”
+
+Fixes  
+a. Replace static boards with 55” digital totems that auto-switch language after reading patient’s QR on OPD ticket.  
+b. IoT sensors for towel/soap levels in patient & visitor washrooms → trigger WhatsApp to housekeeping supervisor when <20 %.  
+c. 10 % of OPD slots reserved for “Fast-track” (elderly, ortho, neuro) with dedicated seating zone and priority lifts.  
+d. Quarterly deep-clean with ATP testing; scores posted publicly.  
+e. Expand Platinum-wing model (complimentary robe, aroma diffuser, menu choice) to any patient staying >3 nights – upsell ₹3.5 k/day package; pilot 20 rooms, target 70 % occupancy.
+
+--------------------------------------------------
+4. Wait-time Reduction
+--------------------------------------------------
+Pain-point  
+- “Took 3 h for a 15-min cyst removal.”
+
+Fixes  
+a. Predictive over-booking algorithm (based on no-show history) → reduce idle slot time; current no-show 18 %, aim 10 %.  
+b. Single queue token for registration-consultation-pharmacy; counters auto-flash next token so patients can sit instead of stand in line.  
+c. “Procedure bundling” – cyst, DVT prophylaxis injection, post-op review bundled into one calendar block; patient given fixed appointment (e.g., 11:30) and discharge summary by 14:00.  
+d. Real-time wait screens in cafeteria & parking; if predicted wait >45 min, patient receives ₹50 food voucher (cost <0.3 % of revenue).  
+e. Weekend / evening minor-surgery list; target 15 % of elective cases moved out of weekday prime time.
+
+--------------------------------------------------
+5. Value-for-Money & Pricing Transparency
+--------------------------------------------------
+Pain-point  
+- “₹ XXXXX bill never disclosed … same procedure ₹ YYYY in Kolkata.”
+
+Fixes  
+a. Price estimator web-tool + WhatsApp bot: patient enters procedure, gets instant package (room rent, surgeon, anaesthetist, consumables, 90 % of meds).  
+b. Financial counsellor mandatory visit BEFORE consent signature; counselling recorded on EMR timestamp.  
+c. “No surprise” clause: if final bill >20 % above estimate, hospital absorbs excess unless clinical complication documented.  
+d. Compare-with-city table printed on estimate sheet (Apollo vs regional average) – builds trust, shows price band rationale.  
+e. Introduce “Apollo Advantage” tiered membership (₹999/yr) – 10 % discount on diagnostics, free ambulance pick-up, one annual health check; target 100 k sign-ups in 12 months.
+
+--------------------------------------------------
+6. Digital Experience
+--------------------------------------------------
+Pain-point  
+- “No app updates … had to carry files upstairs.”
+
+Fixes  
+a. Apollo Chennai Super-app: unified appointment, payment, report, discharge summary, diet chart, nurse call.  
+b. Push-notification within 5 min of lab report release; patient can WhatsApp share directly to referring doctor.  
+c. e-Pharmacy integration: medicines home-delivered same day; 20 % shift from retail counter in 12 months.  
+d. Tele-follow-up (video) at 48 h, 7 days, 30 days; auto-scheduled; no-show triggers customer-care call.  
+e. Open API for wearables – step counter & BP upload to EMR; alerts nursing station if vitals breach threshold for high-risk patients.
+
+--------------------------------------------------
+Implementation Road-map & Metrics
+--------------------------------------------------
+0-3 months  
+- Deploy navigator desk, price estimator, SBAR training, IoT washroom sensors.  
+Target: Navigator NPS ≥70, Wait-time ↓15 %, Washroom-out-of-stock incidents 0.
+
+3-6 months  
+- Digital totems, fast-track zone, single-queue pharmacy, weekend minor-surgery list.  
+Target: OPD throughput +10 %, Cyst-package bill-variance <10 %.
+
+6-12 months  
+- Super-app adoption 60 % of footfall, membership 100 k, Platinum-wing upsell 70 % occupancy.  
+Target: Overall patient NPS ≥82 (from current 68), Revenue per adjusted admission +8 %, Cost of rework -15 %.
+
+Review cadence: Fortnightly steering committee chaired by COO; dashboard auto-pulled from CRM-HMS-Finance; red-amber-green traffic-light for each KPI.
+
+Execute, measure, iterate – and Apollo Chennai can convert the current “excellent clinicians, chaotic journey” perception into a consistent, world-class end-to-end experience.

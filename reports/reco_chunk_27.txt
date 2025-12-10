@@ -1,0 +1,110 @@
+Apollo Hospitals – Greams Road & Main Hospitals  
+Customer-Feedback Action Plan (2024-24)
+
+------------------------------------------------
+1.  Service Quality
+------------------------------------------------
+What the data say  
+• Life-saving clinical work is repeatedly rated “excellent”; the emotional impact of a single smiling paramedic or nurse is mentioned almost as often as the surgeon’s skill.  
+• Conversely, “simple” day-care cases (cyst removal, septoplasty) generate the loudest complaints about cost shock and process friction.
+
+Do first (30 days)
+• Create a “Concierge for Electives” desk that phones every day-case patient 24 h pre-admission, confirms final package price, sends a one-click payment link and a WhatsApp geo-pin of the exact entry gate + department.  
+• Attach a 3-question “micro-survey” (Net Promoter Score + 2 open) to the discharge summary; auto-escalate any score ≤8 to the unit head within 1 h.
+
+Do next (90 days)
+• Introduce “Price-lock” vouchers for the 25 most common elective procedures; voucher valid 60 days, price inclusive of anaesthetist fee, room, consumables, one follow-up.  
+• Pilot a “Patient Shadow” programme: one non-clinical staff member shadows 5 patients/day, times every hand-off, reports bottlenecks in daily huddle.
+
+------------------------------------------------
+2.  Staff Behaviour & Communication
+------------------------------------------------
+What the data say  
+• Patients remember the names of individual nurses (Afiya, Asma, Kishore, Gopal) more than any other detail; negative reviews rarely mention clinical error—almost always “no-one told us where to go next”.
+
+Do first  
+• Roll out a 30-min “Name-to-Face” e-module for all patient-facing staff: introduce yourself, explain next step, ask “What questions do you have for me?”  
+• Add a “You said, we did” whiteboard in every ward displaying last week’s top 3 patient suggestions and the action taken.
+
+Do next  
+• Link 10 % of monthly variable pay for ward clerks, nursing aides and security to the ward-level NPS.  
+• Launch “Apollo Pal” badge: any employee can gift a colleague a QR-coded badge when caught “doing the right thing”; badges convert to Rupee vouchers once 50 patients have scanned and up-voted.
+
+------------------------------------------------
+3.  Facilities & Way-finding
+------------------------------------------------
+What the data say  
+• Hospital is described as “clean, reassuring, five-star” but “poorly sign-posted inside”; families wander between departments; valet is smooth, internal navigation is not.
+
+Do first  
+• Paint a colour-coded line on the floor (red = cardiology, blue = radiology, etc.) that patients can follow from main reception to lift lobbies.  
+• Place a “digital standee” at each lift bank: tap RFID wrist-band or scan QR → turn-by-turn directions + live queue number.
+
+Do next  
+• Re-design the front hall into “Airport mode”: single security queue splits to specialty islands, each island has its own vital-signs kiosk and a labelled waiting bay.  
+• Partner with Google Maps Indoor; upload floor plans so the patient’s phone guides them inside the building.
+
+------------------------------------------------
+4.  Wait Time
+------------------------------------------------
+What the data say  
+• Emergency cases praise “zero-delay” thrombolysis; elective patients complain of 2-3 h hidden waits between departments.
+
+Do first  
+• Shift elective admissions to dedicated “fast-track” lifts and pre-admission bay between 07:00–09:00; no elective case to share lift with emergency trolleys during peak.  
+• Display live queue status on the Apollo app for blood collection, radiology, pharmacy; auto-push SMS when 5 patients are ahead.
+
+Do next  
+• Implement pooled slotting: radiology, pathology and physician review share one queue engine so a single token books sequential appointments.  
+• Introduce “45-minute promise”: if any elective patient waits >45 min past appointment time, meal voucher automatically issued via app.
+
+------------------------------------------------
+5.  Value for Money & Pricing Transparency
+------------------------------------------------
+What the data say  
+• 4 separate reviewers quote a cyst removal costing “Rs X” (double vs. Kolkata) with “no prior disclosure”.
+
+Do first  
+• Publish a “Know Your Price” microsite with median bill for the 50 most common procedures, update quarterly; mandatory checkbox on admission form: “I have seen the price range”.  
+• Introduce a price-audit officer who signs off every elective estimate; variance >15 % from published median needs CFO approval and patient re-consent.
+
+Do next  
+• Offer a “Apollo @Home” bundle for low-complexity surgery: hospital facility fee waived, surgeon & anaesthetist visit an affiliated neighbourhood day-care; price 30 % lower.  
+• Pilot dynamic pricing: off-peak week-day slots carry 8 % rebate, visible while booking.
+
+------------------------------------------------
+6.  Digital Experience
+------------------------------------------------
+What the data say  
+• Patients love individual doctors’ WhatsApp updates; hate re-entering registration data every visit, inability to download bill, lack of cost estimator.
+
+Do first  
+• Single-patient ID across all Apollo centres; OTP-based login so returning patients pre-load history in <15 s.  
+• Push final bill PDF to app within 30 min of discharge; one-tap UPI payment.
+
+Do next  
+• Integrate AI symptom triage chatbot; at the end of the chat show real-time earliest slot of matched specialist with price band.  
+• Launch “Apollo Wallet”: load money pre-visit, earn 2 % bonus credit, spend on Rx, labs, food court; unspent amount refundable to source account.
+
+------------------------------------------------
+Governance & Metrics
+------------------------------------------------
+Owner: Chief Operating Officer, Apollo Chennai cluster  
+Steering group: Clinical directors, Nursing superintendent, CIO, CFO, Quality head  
+Core KPI (tracked weekly on public dashboard)  
+1. NPS for elective cases ≥ 70 by Q4 2024 (baseline 52).  
+2. Median time from entry to first clinical contact ≤ 18 min (baseline 42 min).  
+3. Price-query related complaints ≤ 2 % of total (baseline 11 %).  
+4. Staff recognition scans (Apollo Pal) ≥ 1 000/month.
+
+Review cadence: 30-day sprint retrospectives; patient council meeting quarterly.
+
+------------------------------------------------
+Quick-win Checklist (next 7 days)
+[ ] Print colour floor lines.  
+[ ] Activate “Concierge for Electives” WhatsApp number.  
+[ ] Load 25 procedure price-locks into HMS and website.  
+[ ] Brief front-office to show price range checkbox to 100 % of elective patients.  
+[ ] Roll out “Name-to-Face” micro-learning to all morning-shift staff.
+
+Implementing the above will convert the already world-class clinical reputation into an equally world-class patient experience, cut cost surprises by >80 %, and raise elective-case NPS into the 70s within two quarters.

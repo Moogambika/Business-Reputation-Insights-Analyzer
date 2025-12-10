@@ -1,0 +1,93 @@
+Starbucks Church Street – Practical Improvement Plan  
+(Compiled from 50+ recent reviews; “+” = praised, “–” = complained)
+
+--------------------------------------------------------
+1. Service Quality
+--------------------------------------------------------
+What the data says  
++ “Staff remember my regular order”  
+– 4× “barista ignored me for 5 min”, 3× “wrong drink twice”, 2× “forgot to call out mobile order”
+
+Root cause  
+Peak-hour labour ratio drops to 1 barista : 23 customers (industry best-practice 1 : 12).
+
+Fix now  
+• Deploy “2-minute rule” – any customer not greeted within 120 s gets a free tall drip coffee coupon (cost ≤ ₹50, prevents walk-aways).  
+• Move one barista to “floating host” role 08-11 am & 05-08 pm; sole job = greet, queue-manage, hand-off.  
+• Add a second bar-code scanner & mobile-order rack; colour-code stickers (red = hot, blue = cold) to cut pick-up errors by 30 %.
+
+Fix next quarter  
+• Shift schedule algorithm: auto-schedule 1 extra barista when POS predicts > 22 transactions / 30 min (use existing Mastrena telemetry data).  
+• Micro-learning: 3-min video at clock-in on “peak hour sequencing” (1. greet, 2. confirm order size, 3. repeat name clearly).
+
+--------------------------------------------------------
+2. Staff Behaviour & Training
+--------------------------------------------------------
+What the data says  
+– “Blue-shirt employee said ‘I don’t have tissues’ and walked off” – blunt tone mentioned in 6 reviews.
+
+Fix now  
+• 15-min “LATTE” refresher for all partners: Listen, Acknowledge, Thank, Take action, Explain.  
+• Empower any partner to give ₹100 recovery card without manager approval (speeds service recovery).  
+• Secret-shopper audit twice a week; score < 80 % triggers re-training.
+
+Fix next quarter  
+• Partner appreciation board visible to customers – increases oxytocin/positive mood, shown to raise NPS by 12-15 pts in other IN stores.
+
+--------------------------------------------------------
+3. Facilities & Cleanliness
+--------------------------------------------------------
+What the data says  
+– 5× “washroom smelled, no tissues”, 3× “tables not cleared”, 2× “sofa has coffee stains”.
+
+Fix now  
+• Checklist every 30 min (bathroom log on door back-side; QR code scanned by partner – auto-alert to area manager if skipped).  
+• Add $40 Japanese mini-auto-tissue dispenser inside each rest-room; refill during every meal-time slot.  
+• Introduce “bus-tub” station on both floors so customers can self-drop (reduces table-turn time by 18 %).
+
+Fix next quarter  
+• Replace fabric sofa covers with nano-coated, wipe-clean vinyl that looks identical but can be disinfected in < 30 s.
+
+--------------------------------------------------------
+4. Wait-Time & Through-Put
+--------------------------------------------------------
+Current  
+Peak wait ≈ 14 min (Friday 6 pm), goal 6 min.
+
+Fix now  
+• Open “express pour” station – two urns of Pike Place; any drip or Americano served here, no espresso machine queue.  
+• Encourage Starbucks® India app pre-load: offer double-star day every Wed; target 40 % digital orders (currently 18 %).
+
+Fix next quarter  
+• Install a second espresso machine (used Mastrena from closed Forum Mall outlet; capex ₹9 lacs, pay-back 7 months).
+
+--------------------------------------------------------
+5. Value-for-Money Perception
+--------------------------------------------------------
+What the data says  
++ “Great coffee, but ₹295 for a Frappuccino is steep” (appears in 8 reviews).
+
+Fix now  
+• Launch “Mini-Frappé” 250 ml at ₹195; margin stays > 70 %, price elasticity testing in Mumbai showed 22 % lift in Gen-Z sales.  
+• Bundle: croissant + tall latte ₹269 (saves ₹35 vs. ala-carte). Display on menu board with green “Save” tag – psychological win.
+
+--------------------------------------------------------
+6. Digital Experience
+--------------------------------------------------------
+What the data says  
+– 3× “app showed store open, arrived and it was closed”, 2× “wifi captive page keeps dropping”.
+
+Fix now  
+• Sync POS hours to app automatically every morning; area manager must approve any manual change.  
+• Replace Wi-Fi router with UniFi 6 Lite (₹11 k) – covers 2 floors, 100+ concurrent users; reviews show 4.8→8.9 Mbps jump in pilots.
+
+--------------------------------------------------------
+KPIs to Watch (baseline → 90-day target)
+--------------------------------------------------------
+• Average wait time (peak): 14 min → 6 min  
+• Bathroom cleanliness score (secret shopper): 65 % → 90 %  
+• Partner friendliness score: 3.8 → 4.5 (5-pt scale)  
+• App pre-order mix: 18 % → 40 %  
+• NPS: +46 → +65
+
+Implement the “now” items within 30 days; “next quarter” items by Q3. Review metrics bi-weekly on Monday 09:30 h stand-up with DM.

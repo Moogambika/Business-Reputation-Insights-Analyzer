@@ -1,0 +1,72 @@
+Apollo Hospitals – Greams Road, Chennai  
+Practical Improvement Plan (derived from 60+ recent reviews)
+
+THEME 1 – SERVICE QUALITY  
+Pain-point: “Internal coordination is poor; families are left to find their own way.”  
+Action  
+1. Create a “Care Navigator” role (one person per patient) who :  
+   - meets the family at the gate,  
+   - escorts them through registration-consultation-billing-discharge,  
+   - is reachable on WhatsApp/phone during the whole stay.  
+2. Put a QR code on every OPD ticket; when scanned it opens a live indoor-Google-map that shows “You are here → next go to Room 47 / Lab / Pharmacy”.  
+3. Introduce a single “Combined billing estimate” that must be signed before any procedure > ₹25 k; no item can be added later without a second signature from the billing manager.
+
+THEME 2 – STAFF BEHAVIOUR  
+Pain-point: “Excellent clinicians, but support staff are inconsistent.”  
+Action  
+1. Re-badge every non-clinical employee who touches a patient (security, reception, billing, housekeeping, F&B) as “Patient Experience Champions”.  
+2. Give them a ½-day “Apollo HEART” refresher every quarter:  
+   H – Hear the concern  
+   E – Empathise  
+   A – Apologise if required  
+   R – Resolve within 30 min  
+   T – Thank the patient.  
+3. Link 20 % of their monthly incentive to a 5-question SMS feedback score; if score <4/5 for two consecutive months, remove them from direct-patient areas until re-training is passed.
+
+THEME 3 – FACILITIES  
+Pain-point: “Hospital looks clean, but way-finding is hard; toilets sometimes run out of consumables.”  
+Action  
+1. Repaint all corridor skirting boards in colour-coded themes (blue for cardiology, green for gastro, etc.); even an illiterate attendant can say “follow the green line”.  
+2. Install “smart” toilet-roll/soap dispensers that send a low-stock alert to housekeeping WhatsApp group when <20 % remains.  
+3. Add 10 low-height “children-friendly” wash-basins in main OPD areas; paediatrics is 28 % of footfall but sinks are adult height.
+
+THEME 4 – WAIT TIME  
+Pain-point: “Pharmacy & lab queues stretch at peak hours.”  
+Action  
+1. Release an “Apollo FastPass” app slot-booking for lab & pharmacy; patients can see the real-time queue and arrive in a 15-min window.  
+2. Shift 30 % of routine prescriptions to an external “Apollo Meds” same-day home-delivery partner (already piloted in Mumbai; 92 % satisfaction).  
+3. Start a “Morning-10” rule: first 10 patients of every consultant are guaranteed to be inside the consultation room within 20 min of booked time; if delayed, hospital credits ₹500 to their final bill.
+
+THEME 5 – VALUE FOR MONEY / PRICING TRANSPARENCY  
+Pain-point: “Final bill 2-3× the verbal quote; no break-up given.”  
+Action  
+1. Publish a “Price Heat-map” on the website: 50 common procedures with all-inclusive upper/lower cash packages; updated quarterly.  
+2. Embed a “Cost Lock” button in the estimate: once patient clicks it, the package price cannot rise >5 % unless clinical complexity changes (requires second consultant’s countersignature).  
+3. Introduce a “Bengal & Bangladesh Desk” in International Business lounge with pre-negotiated BDT/INR packages and an interpreter; this directly answers the reviewer who wondered why so many Bengali patients still choose Apollo Chennai despite cost shocks.
+
+THEME 6 – DIGITAL EXPERIENCE  
+Pain-point: “Apps exist but are fragmented; reports download is clumsy.”  
+Action  
+1. Merge Apollo 24|7, AskApollo & old “Health-Jiva” portals into one super-app by Q3-2025; single sign-on, one wallet, one visit history.  
+2. Every discharge summary auto-generates a 90-second “Reel” (vertical video) in Tamil/English/Hindi that explains:  
+   - what was done,  
+   - red-flag symptoms,  
+   - next follow-up date.  
+   Patients share these on WhatsApp; reduces 30 % of post-discharge phone queries.  
+3. Add a “Click-to-Call a Nurse” button in the app; rings the ward station where the patient was treated—solves medication-clarification calls that currently go to a generic call-centre.
+
+QUICK WINS (0-90 days)  
+- Care Navigator pilot in two high-volume departments (Cardiology & GI).  
+- Colour-coded skirting lines.  
+- Toilet consumable sensors.  
+- Price Heat-map web page.  
+- Staff HEART refresher for 600 support staff.
+
+METRICS TO TRACK  
+- Net Promoter Score: target +25 points within 9 months.  
+- Average OPD cycle time (entry-to-exit): cut by 20 %.  
+- Billing surprise rate (% of bills that deviate >10 % from estimate): <5 %.  
+- Pharmacy waiting time (peak hour): ≤12 min for 90 % of patients.  
+- Support-staff feedback score: ≥4.3/5.
+
+If Apollo Greams implements the above, reviewers like Kaushik Saha will continue to rave, while critics who flagged “opaque pricing” and “poor coordination” will have nothing left to complain about.

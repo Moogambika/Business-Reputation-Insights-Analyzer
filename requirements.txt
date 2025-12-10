@@ -1,0 +1,14 @@
+requests
+pandas
+python-dotenv
+nltk 
+vaderSentiment
+transformers
+bertopic 
+sentence-transformers
+streamlit
+pandas
+plotly
+scikit-learn
+matplotlib
+nltk

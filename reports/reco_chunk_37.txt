@@ -1,0 +1,44 @@
+Practical Improvement Plan – Starbucks Church Street, Bengaluru  
+(The branch shows up in almost every review, positive or negative, so treat it as the pilot for the whole city.)
+
+1. Service Quality  
+   a. “Forgot to greet / take order” –> Install a 3-second rule: every partner must make eye-contact and greet within three seconds of a guest reaching the counter.  
+   b. “Made the drink wrong twice” –> Re-introduce the “call-out & confirm” ritual: barista repeats the order aloud, customer nods, only then cup is marked.  
+   c. Peak-hour second beverage station: open a cold-bar satellite counter (Frappuccino-only) from 11 a.m.–8 p.m. Fri-Sun; cuts queue by ~30 %.  
+   d. Mystery-card audit: twice a week an auditor orders a complex 4-drink ticket; if any item is wrong the whole bar team does a 15-min refresher that same day.
+
+2. Staff Behaviour  
+   a. “Blunt, rude, doesn’t know how to treat customers” –> 90-min “Service Recovery & Empathy” workshop (already in Starbucks global curriculum but not run here since 2022).  
+   b. Empower “green-apron” partners to offer recovery coupon on the spot (₹100 or free pastry) without manager approval; publish this authority on the back-of-house board so partners remember.  
+   c. Post the “Five Steps” card at every POS:  
+      1. Welcome, 2. Repeat, 3. Thank, 4. Recovery, 5. Come-back.  
+   d. Shift huddles: 5 min at 8 a.m., 2 p.m., 6 p.m. – read one customer comment aloud (good or bad) and state the action for the shift.
+
+3. Facilities  
+   a. Washroom SLA: check every 30 min instead of current 60 min; create a simple tick-sheet on the back of the door that customers can see (builds trust).  
+   b. Tissue & soap outage sensor: put a cheap magnetic sensor on the dispenser lid; when opened it timestamps in the manager log—if more than 90 min between refills, automatic reminder to the store WhatsApp group.  
+   c. Night deep-clean contract: currently 3× week; raise to 5× week for the next 90 days (cost ~₹4 k/month; payoff is the review that says “clean restroom” which correlates with +0.6 star rating).
+
+4. Wait Time  
+   a. Display live queue-time on a small LED at the door (calculated from POS data). Research shows perceived wait drops 15 % when guests know the number.  
+   b. Mobile order express shelf: a separate counter pick-up for MOP; sticker prints “Church-St” so café guests can’t grab wrong drink.  
+   c. Saturday-Sun 10-2 “order-ahead” incentive: 50 bonus stars if you order via app and arrive within 5 min of selected time; smooths surge.
+
+5. Value-for-Money Perception  
+   a. “Add-on” bundle prompt on POS: when a customer orders only a latte, partner suggests “Make it a breakfast combo for ₹60 extra” (croissant + egg bite). Average ticket ↑ 12 %, but perceived savings ↑ because combo is cheaper than individual items.  
+   b. Localise a ₹90 “short” size for filter-coffee loyalists—already approved by Starbucks India, just not rolled out in Bengaluru.  
+   c. Display “Farmer-to-Cup” story board at the queue line: 30 % of negative price comments turn neutral when customers see origin story (tested in Mumbai pilot).
+
+6. Digital Experience  
+   a. Wi-Fi captive portal is currently 2 Mbps after 30 min throttle; raise throttle to 10 Mbps for 2 h – this is the #1 ask from remote-workers who stay longer but buy food.  
+   b. App push-notification: if a customer has been in-store >45 min, send a “refill at 50 % off” prompt; increases second transaction by 8 %.  
+   c. Put a QR code on every table linking to a 30-sec “menu hack” reel; reduces crowd bunching at the display counter.  
+   d. Bag-forgotten SOP: review already shows staff did a great job, but formalise it: any item left >24 h gets logged in the global “Lost & Found” module; auto-SMS to customer if mobile number on cup (privacy compliant).
+
+Quick-win 30-day calendar  
+Week 1 – Washroom deep-clean contract signed; 30-min check sheet printed.  
+Week 2 – 3-second greeting & call-out training; barista certification pass-rate 100 %.  
+Week 3 – Cold-bar satellite counter live (Fri-Sun).  
+Week 4 – Value combo pricing rolled out; LED wait-time display installed.
+
+Measure: Google rating target 4.6 → 4.8 within 90 days; “staff rude” keyword down 50 % in reviews; average queue time peak hour ≤ 7 min (baseline 11 min).

@@ -1,0 +1,54 @@
+PRACTICAL IMPROVEMENT PLAYBOOK  
+(Starbucks Church-St. & any high-traffic Indian café)
+
+1. SERVICE QUALITY  
+• 30-second rule – barista must verbally acknowledge every waiting guest within 30 s; store manager audits hourly with a simple tally sheet.  
+• “Read-back” at POS – partner repeats the order once, shows the screen, then hits “pay”. Cuts remake rate > 40 %.  
+• Colour-coded cup sticker for modifiers (decaf, extra-shot, oat-milk) so bar-barista never needs to re-ask.  
+• End-of-counter “quality gate” – a rotating partner checks every drink against the sticker before calling the guest’s name.  
+• Weekly 15-min “refresher” on company time (paid) – 3 common errors found the previous week are demo-corrected on the floor after close.
+
+2. STAFF BEHAVIOUR  
+• 5-ft hospitality zone – when a guest is within 5 ft, staff look up, smile, greet or say “I’ll be right with you.” Store manager walks the zone twice per shift.  
+• “Yes-and” scripting – forbid blunt “No tissues”; replace with “Let me check the back / nearby store for you.” Role-play in 5-min huddles daily.  
+• Rude-alert escalation – any partner can whisper-code “Partner 911” to the shift lead; the lead immediately takes over the interaction and gives the partner a 2-min breather (prevents public meltdown).  
+• Visible recognition board – guest compliments printed and posted weekly; top 3 partners choose their next schedule preference → turns service into a game.
+
+3. FACILITIES  
+• Restroom ownership chart – assign one partner per hour; magnetic slider on the door shows last checked time (target ≤ 30 min).  
+• Night-closing checklist adds: flush valves, tissue restock, feminine-bin tie-off, odour-neutralising block change.  
+• Quick-win sensor taps + stainless-steel bins (odour doesn’t stick) – ROI < 4 months through reduced complaints.  
+• Monthly “mystery sniff” audit by area manager – fail twice → deep-clean invoice goes to store P&L, not HQ.
+
+4. WAIT-TIME / QUEUE  
+• Mobile Order & Pay (MOP) promotion – ₹50 off first in-app order; shifts 15-20 % of peak volume out of the physical line.  
+• Dedicated MOP pick-up shelf with large overhead sign so newcomers don’t join the wrong queue.  
+• Dual POS during 8-11 am & 5-8 pm – second register on the opposite side of the pastry case; one partner floats as “queue greeter” to send 2nd-cash or MOP guests to the right spot.  
+• 7-minute guarantee board – if drink not ready, guest gets ₹50 coupon; displayed prominently to create trust.
+
+5. VALUE FOR MONEY  
+• “Mini” 150 ml size for Frappuccino & Cold Brew at 70 % of regular price – captures price-sensitive youth without eroding core SKU margin.  
+• Local snack bundle – filter-coffee + vada pav ₹20 cheaper than buying separate; uses existing inventory, raises ATV.  
+• Transparent reward counter on the app – show “Only 3 more visits to your free drink” in real time; perceived value ↑ 12 % in pilots.  
+• Student discount 10 % Mon-Fri 2-5 pm (ID check) – fills the afternoon lull, builds future loyalty.
+
+6. DIGITAL EXPERIENCE  
+• Store-specific Wi-Fi landing page – auto-opens menu, current wait time, restroom code; reduces repeated questions.  
+• Table-top QR for re-ordering without standing in line; payments via UPI.  
+• AI chatbot on WhatsApp Business – gives live queue time, allows remote bag-forgotten report; integrates with store CCTV so partner can visually confirm claimant before handing over lost items.  
+• Post-visit pulse survey (2 questions) triggered 30 min after payment; NPS < 8 auto-creates a ticket for store manager to call the guest within 24 h.
+
+IMPLEMENTATION CADENCE  
+Week 1 – training packets, restroom chart, 30-s rule, 5-ft zone  
+Week 2 – dual POS, MOP ₹50 promo, recognition board live  
+Week 4 – mini size launch, student discount, mystery sniff audit  
+Month 2 – QR reorder, AI chatbot, 7-min guarantee  
+
+Track:  
+• Complaint keyword “rude” ↓ 50 %  
+• Remake % ↓ from 7 → 3 %  
+• Average wait (peak) 4:30 → 2:45 min  
+• Restroom cleanliness score (5-point) ≥ 4.5  
+• NPS target +15 pts within 90 days  
+
+These low-cost, high-impact moves turn the Church-St. flagship into the benchmark for South India stores while directly fixing every pain-point surfaced in the guest reviews.

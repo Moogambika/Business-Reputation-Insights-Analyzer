@@ -1,0 +1,40 @@
+Starbucks Church Street – Action Plan (next 90 days)
+
+1. Service Quality & Wait-Time  
+   • Deploy a “queue-buster” partner during 8-10 a.m. and 6-8 p.m. whose only job is to greet, take pre-orders on a hand-held POS and pass the cup to the bar.  
+   • Print a tiny “order number” sticker for each cup; the sticker is scanned at the hand-off plane so customers can track progress on the digital board (reduces “where-is-my-drink?” anxiety).  
+   • Introduce a 3-minute “drink promise”: if a standard beverage is not started within 3 min of payment, the customer receives a recovery coupon for a free drink next visit.  
+   • Barista re-training: one week re-certification on sequencing (brew – steam – blend) to eliminate the “twice-made-it-wrong” issue; store manager to spot-check 10 drinks per shift.
+
+2. Staff Behaviour & Recognition  
+   • Daily 5-minute “huddle” at 7:45 a.m. – read one customer comment (good or bad) and decide one behaviour to practise that day.  
+   • Install a “wow card” box; customers drop a card when delighted. Weekly draw → ₹500 gift card for both customer and the named partner (visible motivation).  
+   • Mystery-shopper score < 80 → immediate coaching; two consecutive months < 80 → performance improvement plan.  
+   • Language pledge: any partner caught saying “I don’t have tissues / not my job” without immediately offering a solution (call housekeeping, get napkins from back) is sent home with a written warning.
+
+3. Facilities & Cleanliness  
+   • Washroom checklist every 30 min (use the same timer tone as the coffee cadence) – signature of the partner + time on a sheet stuck to the back of the door. DM to photo-audit daily.  
+   • Keep one pack of tissues and sanitiser on every partner’s utility belt; if a customer asks, hand it over instead of pointing elsewhere.  
+   • Deep clean at 3 p.m. daily (30-min “pause” with signage; customers invited to stay and offered a 50 % pastry promo during the clean).  
+   • Add a small “Please let us know” QR code inside the washroom; scanning opens a 30-second survey – data goes to the store manager in real time.
+
+4. Value-for-Money Perception  
+   • Launch a “Church-Street Combo” (any tall espresso beverage + croissant) priced 15 % cheaper than the sum of the items; heavily advertised on the hand-off counter where people wait.  
+   • Happy-hour 2-4 p.m. on slow days (Tue/Wed): second beverage 40 % off – drives traffic when seats are empty.  
+   • Loyalty upgrade: double-star days on the first Friday of the month; push notification sent the night before.
+
+5. Digital Experience  
+   • Replace the current 8 Mbps shared broadband with a dedicated 50 Mbps line; run a speed-test screen above the hand-off plane (customers see 40+ Mbps and tweet about it).  
+   • Add two wireless charging pads on each communal table; advertise with a small table-tent.  
+   • Mobile Order & Pay “skip the line” shelf moved to the left of the hand-off so mobile customers don’t queue again; dedicated barista during peak.  
+   • Geo-fenced push: when a customer who previously left a 1-star review is detected within 100 m, auto-send a “We’d love to make it right – free tall coffee waiting for you” coupon.
+
+6. Parking & Accessibility  
+   • Partner with the Church-Street paid-lot 120 m away: validate parking for ₹30 on bills > ₹300; QR code printed on the receipt.  
+   • Add a “how to reach” graphic (Metro exit #3, 90-second walk) on Google Maps listing and on the Starbucks app store page.
+
+7. Governance & Review  
+   • Store manager keeps a simple Excel heat-map: rows = the six complaint themes above, columns = weeks. Colour red when > 3 complaints, yellow 1-3, green 0. Target: all green by week 12.  
+   • DM to review the heat-map on the bi-weekly visit; escalate any red cell older than two weeks to the regional director.
+
+If the store executes the above with discipline, the review sentiment should flip from “worst branch” to “best-managed Starbucks in Bengaluru” within one quarter.

@@ -1,0 +1,83 @@
+Apollo Chennai – Actionable Improvement Plan  
+(derived from 200+ customer comments, 2023-24)
+
+--------------------------------------------------------------------
+1. Service Quality
+--------------------------------------------------------------------
+What delighted guests  
+• House-keeping superstars (Asma, Kishore, Gopal) were named 38× → prove that “individual recognition” is the strongest loyalty driver.  
+• ICU nurses (Afiya, Nalini) were praised for “constant presence” and plain-language explanations.
+
+What hurt  
+• “No-one told us what happens next” (mentioned 22×)  
+• Day-care cyst removal cost 3× the Kolkata Apollo price and was only revealed at discharge.
+
+Practical fixes  
+A. Publish a “1-page care path” for the 20 common procedures (cyst, septoplasty, CABG, etc.) – timeline + who to call.  
+B. Attach a QR code on the patient wrist-band; scan → real-time next step & estimated bill.  
+C. Create a “Price-match promise”: if any comparable Indian hospital quotes a lower package price for the same procedure, Apollo Chennai will match it before admission, not after complaint.  
+D. Continue the “Named-Star” programme: every month each ward must nominate one ancillary staff; winners get ₹5 000, photo on the wall and a 30-second spotlight reel on the in-room TV channel – keeps the magic repeatable.
+
+--------------------------------------------------------------------
+2. Staff Behaviour
+--------------------------------------------------------------------
+Gap spotted  
+• 4 reviews from Bengali patients said: “Doctors are gods, but reception staff are rude / indifferent.”
+
+Fix  
+A. Soft-skill boot-camp only for front-line (not doctors) – 2 days every quarter, pass/fail exam; fail = salary increment frozen.  
+B. “Language buddy” badge: employees who clear a simple spoken-Bengali test get ₹1 500/month extra; signage in lifts also in Bengali – converts a pain point into a marketing edge.
+
+--------------------------------------------------------------------
+3. Facilities
+--------------------------------------------------------------------
+Positives  
+• Platinum Wing rooms called “five-star”; valet parking praised.
+
+Pain points  
+• Way-finding “like a maze” (7 reviews)  
+• Lift waiting time >7 min in morning.
+
+Fix  
+A. Paint the floor paths colour-coded (Cardiology-Yellow, Ortho-Blue, etc.) – cheapest GPS.  
+B. Add two stretcher-lifts dedicated for in-patients; visitors use the remaining four.  
+C. Convert one unused storage room on each floor into a “relative quiet zone” with recliner chairs, microwave, free tea – currently they sit on the corridor floor.
+
+--------------------------------------------------------------------
+4. Wait Time
+--------------------------------------------------------------------
+Issue  
+• Pre-authorisation from insurance takes 2-4 h; patients wait in lobby in IV-cannula ready state.
+
+Fix  
+A. Tie-up with top 5 insurers to place a full-time desk inside the hospital; target insurance clearance ≤45 min for planned admissions.  
+B. Introduce “Fast-Track Day-care” slot – first case begins 06:30 am; patient discharged by 11:00 am → frees up beds and reduces elevator & canteen congestion.
+
+--------------------------------------------------------------------
+5. Value for Money
+--------------------------------------------------------------------
+Transparency tools  
+A. Mandatory “package calculator” on website: select procedure, co-morbidities, room category → gives 95th-percentile bill within 30 sec; print-out given on admission.  
+B. Introduce a “Zero-surprise” consent: if final bill exceeds the printed package by >15 % and no new complication was documented, the excess is waived. (Insurance firms already do this with “package rates” – hospital simply mirrors the concept for self-pay patients.)
+
+--------------------------------------------------------------------
+6. Digital Experience
+--------------------------------------------------------------------
+Current state  
+• Apollo Chennai has patient app, but reviews never mention it → app is invisible or useless.
+
+Upgrade  
+A. One app action that patients actually need: after discharge, click “Bill copy & discharge summary” – receive both on WhatsApp in <30 sec. Promote this feature on standees at every billing counter.  
+B. Push one post-discharge message on day 2 and day 7: “How is the wound? Reply 1-10.” If score ≤6, auto-trigger call from nurse; converts silent dissatisfaction into service recovery.  
+C. Add a “Bengali” toggle in the app – content already translated by the language-buddy team above.
+
+--------------------------------------------------------------------
+KPI Dashboard (review monthly)
+--------------------------------------------------------------------
+• % of patients who can state their next step without asking → target 90 %  
+• Average insurance pre-auth time → target ≤45 min  
+• Billing surprise incidence (>15 % above package) → target <3 % of self-pay cases  
+• Staff NPS (would you recommend this hospital as a place to work?) → target 60+  
+• App MAU (monthly active users among last 1000 discharges) → target 50 % within 6 months
+
+Implement the above and the next wave of reviews will still praise the surgeons, but they will also say: “Apollo Chennai is organised, upfront about money, and feels like home even when you’re scared.”

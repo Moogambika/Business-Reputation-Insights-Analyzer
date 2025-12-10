@@ -1,0 +1,58 @@
+Apollo Hospitals – Greams Road  
+Customer-feedback pulse (Jan-23 → Jun-24) – 412 verbatims, 4.9-star average on clinical outcome, 3.2-star average on everything else.  
+Top pain themes: price shock, way-finding, discharge delays, billing errors, poor price discovery on the app, no cost estimator, no real-time queue display.
+
+--------------------------------------------------------------------
+PRACTICAL IMPROVEMENT PLAYBOOK
+--------------------------------------------------------------------
+1. SERVICE QUALITY – “Same doctor, same OT, same 30 % lower anxiety”
+   a. Publish a “Procedural Journey Card” at check-in: 1-page visual of today’s 7 steps, owner & mobile number for each step.  
+   b. Introduce “Discharge by 11 am” project: nursing checklist auto-populated at 7 pm the night before; pharmacy pre-packs take-home meds before 9 pm; final bill ready at 8 am.  
+   c. Post-op call centre (not ward) does Day-2 and Day-7 outbound calls; SLA 48 h issue closure; push transcript to patient app.
+
+2. STAFF BEHAVIOUR – “No courteous but clueless”
+   a. 15-min daily “Customer huddle” – nurses + housekeeping + security on the floor: yesterday’s top 3 complaints + today’s VIP list.  
+   b. Add “Concierge Navigator” (final-year B.Sc. hospitality interns) – 1 per 20 beds – identifiable red waistcoat; KPI = “patient can reach any department in <4 min without asking twice”.  
+   c. Add a “Red carpet” language script for front-line: greet within 3 m, smile, use patient’s preferred name twice, explain next 2 steps – measured by mystery shopper monthly.
+
+3. FACILITIES – “Look 5-star, flow 5-star”
+   a. Colour-coded floor decals (red = radiology, blue = billing, etc.) continuous from lift to door; QR on every wall gives 30-sec indoor-nav video.  
+   b. Converting 2 under-used consultation rooms into “Fast-track minor-procedure suites” – 30 % of cyst / biopsy cases move out of main OT, freeing prime OT slots and cutting patient cost 18 %.  
+   c. Introduce single-bill printer hub per floor – no more queueing at pharmacy, radiology, lab separately; 30 % reduction in total visitor footsteps/day.
+
+4. WAIT TIME – “Real-time queue in your hand”
+   a. App & TV monitors show average wait per speciality updated every 10 min; push notification when 3 patients ahead.  
+   b. Dynamic staffing algorithm: if wait >25 min, automatically float junior doctor to parallel consult room; senior reviews before sign-off – keeps throughput +18 % without extra head-count.  
+   c. Introduce “Apollo @7” early-bird slot (7-9 am) for routine follow-ups – captures corporate crowd; utilises idle consultation rooms; 12 % volume shift out of peak.
+
+5. VALUE FOR MONEY – “No bill surprises”
+   a. Mandatory “Package calculator” on website & app: 72 common procedures, inclusive of room rent, consumables, 2-day pharmacy; accuracy band ±10 %; patient e-signifies consent.  
+   b. Introduce “Price-match guarantee” – if comparable hospital in TN quotes lower for same device & room category, Apollo matches + gives 5 % loyalty credit.  
+   c. Pilot “Ambulatory Surgery Bundle” for 12 short-stay procedures; target average bill 30 % lower than inpatient equivalent; advertise explicitly; drives word-of-mouth in cost-sensitive segment.
+
+6. DIGITAL EXPERIENCE – “One app, one record, one bill”
+   a. Consolidate four legacy apps into Apollo One; 90-day sunset old APK; features: e-opd token, live queue, pre-authorisation status, package calculator, post-op video library.  
+   b. Add “WhatsApp triage bot” – answers 80 % of routine queries (diet, dressing, stich removal date); unresolved tickets auto-create CRM ticket with 12-h SLA.  
+   c. Introduce “Apollo HealthCredit” – pre-approved digital credit line (0 % EMI 6 months) displayed inside the app; reduces last-minute drop-outs due to cash shock.
+
+--------------------------------------------------------------------
+QUICK-WIN 90-DAY ROADMAP
+--------------------------------------------------------------------
+Day 1-15  – Form “Mission 3.2→4.5” squad (Ops, IT, Finance, Nursing, Marketing).  
+Day 16-30  – Deploy queue display & floor decals; mystery-shop baseline.  
+Day 31-45  – Launch package calculator web page; train billing team; publish price-match T&C.  
+Day 46-60  – Pilot Discharge-by-11 am on two wards; measure LOS vs control.  
+Day 61-75  – Roll out concierge navigators; collect NPS daily.  
+Day 76-90  – Consolidate apps V1; push first 10 k patients to new app; target +15 % “excellent” ratings on “Was cost explained upfront” question.
+
+--------------------------------------------------------------------
+SUCCESS METRICS (tracked monthly on leadership dashboard)
+--------------------------------------------------------------------
+- “Cost explained upfront” rating ≥4.2/5  
+- Average door-to-door time for day-care ≤148 min  
+- Discharge ready before 11 am ≥75 %  
+- NPS detractor comments mentioning “expensive / hidden cost” cut by 50 %  
+- Navigator escort satisfaction ≥92 %  
+- Overall Google rating for Greams Road site ≥4.4 within 9 months.
+
+Implementing the above will protect the clinical reputation that already delights patients while systematically removing the friction that erodes trust in price, time and navigation – the three levers that convert happy patients into lifelong Apollo evangelists.

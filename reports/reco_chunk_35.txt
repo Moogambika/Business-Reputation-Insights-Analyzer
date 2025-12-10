@@ -1,0 +1,44 @@
+Starbucks – Action Plan from recent review themes
+
+1. Service Quality  
+   • Introduce a “5-second rule”: every barista must greet or at least make eye-contact within 5 s of the customer reaching the counter.  
+   • Add a “second-order check” – before payment the barista repeats the order back once; halves remake-rate.  
+   • Deploy a “floating barista” during 08-11 a.m. & 5-8 p.m. rushes who only pre-greets, queues-manages and pre-sets cups; no drink making.  
+   • Mystery-shop the three worst-rated stores every month; store manager must post a “You said / We did” board within 7 days.
+
+2. Staff Behaviour & Training  
+   • Re-train all staff on the “LATTE” model (Listen, Acknowledge, Thank, Take action, Encourage to return) – 15 min micro-learning video that must be re-watched quarterly; quiz pass score 90 %.  
+   • Introduce a peer-nominated “Green Apron” badge each week; winners get first pick of shifts and a ₹1 000 gift card – creates positive peer pressure.  
+   • Add a “service recovery” wallet: every partner can give a free drink or coupon up to ₹250 without manager approval; speeds up fixes and stops bad reviews.  
+   • Track CSAT by partner name in POS; bottom 10 % receive coaching, top 10 % get published on the district leaderboard.
+
+3. Facilities & Cleanliness  
+   • Restroom checklist every 30 min during peak; QR code on the door – customer can scan to mark “needs attention”, auto-pings the shift supervisor watch.  
+   • Stock audit at 7 a.m. and 3 p.m. for tissue, soap, hand-dryer filters; photo proof uploaded to an internal WhatsApp group.  
+   • Quarterly deep-clean contract; store manager signs off before payment.  
+   • Put a small “clean table” indicator card on each cleared table so that walk-ins know it has been sanitised.
+
+4. Wait-Time Reduction  
+   • Mobile order & pay adoption target 60 % of transactions; offer 50 bonus stars for first in-app order.  
+   • Express hand-off counter for mobiles; separate from café queue.  
+   • Beverage sequencing screen facing baristas – cuts 8-12 s per drink.  
+   • During rushes convert one pastry case into a second cold-bar; pastries pre-bagged in the back.
+
+5. Value-for-Money Perception  
+   • Launch a ₹199 “coffee + food” bundle (tall coffee + croissant/bagel) 7-11 a.m.; price anchored below ₹200 feels affordable.  
+   • Introduce 200 ml “short” size for core espresso drinks; 15 % cheaper than tall but keeps margin.  
+   • Happy-hour BOGO on iced drinks 2-4 p.m. Mon-Thu – drives traffic in quiet window without cannibalising breakfast.  
+   • Re-issue physical Starbucks Rewards “star-dashes” – buy 5 drinks in a week, get a free bakery item; perceived value > real cost.
+
+6. Digital Experience  
+   • Real-time loo-status indicator in the app (crowd-sourced + staff toggle) – addresses restroom complaints.  
+   • Push-notification when mobile order is ready; include photo of pick-up shelf to avoid “where is my drink” queues.  
+   • Wi-Fi landing page shows current seat availability (simple traffic-light) so laptop users know before entering.  
+   • Add “remember my regular” toggle – when the customer is within 50 m of the store the order is pre-populated; one-tap submit.
+
+7. Measurement & Accountability  
+   • KPI dashboard visible to partners: average wait <3 min, CSAT >85 %, restroom hit-rate (no alerts) >95 %.  
+   • District manager does a 15-minute “huddle” every Monday reviewing prior week’s numbers and the single biggest pain-point.  
+   • Customer complaints auto-logged in Zendesk; 48 h resolution target, 24 h first response.
+
+Quick-win pilot: pick the three Bengaluru stores with the worst hygiene & wait-time mentions, implement the above for 30 days; publicise results internally, then roll out city-wide.
