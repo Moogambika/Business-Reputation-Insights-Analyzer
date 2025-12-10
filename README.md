@@ -51,8 +51,6 @@ Used LDA / BERTopic to identify hidden themes in reviews.
 
 Each review was assigned a topic number.
 
-Topics later converted into human-friendly names (e.g., "Doctor Expertise", "Housekeeping", "ICU Experience").
-
 ✨ 5. LLM-Generated Interpretations
 
 Used OpenAI/LLM pipeline to generate:
@@ -100,8 +98,6 @@ Bar chart of topic frequency
 Topic-wise average sentiment score
 
 Table of reviews under each topic
-
-Human-readable labels for topics
 
 🧠 4. LLM Summary Page
 
@@ -156,6 +152,7 @@ python -m venv .venv
 Activate:
 
 #Windows
+
 .venv\Scripts\activate
 
 3. Install Dependencies
@@ -165,8 +162,10 @@ pip install -r requirements.txt
 echo GROQ_API_KEY=your_api_key_here > .env
 
 5. Run Streamlit App
+
 #Navigate to project folder
- cd "Business Reputation & Insights Analyzer using Google Maps Reviews + LLMs"
+
+cd "Business Reputation & Insights Analyzer using Google Maps Reviews + LLMs"
 
 streamlit run app.py
 
@@ -221,7 +220,7 @@ Saves time by automating review analysis
 
 Provides competitive advantage with actionable insights
 
-Acknowledgments
+🙏 Acknowledgments
 
 I am deeply grateful to the internal mentors at GUVI for their unwavering support and guidance throughout the development of this project. Their mentorship has been crucial in helping me navigate challenges and successfully complete this Business Reputation & Insights Analyzer.
 
